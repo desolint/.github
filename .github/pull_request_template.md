@@ -38,10 +38,10 @@ Effect: +20KB to the bundle size
 - [ ] I have tested the changes for responsiveness (if applicable)
 
 ###### Reviews Tasks
-- [ ] I have answered responded to all the comments from the All the AI Reviewers
+- [ ] I have responded responded to all the comments from all the AI Reviewers
 - [ ] I have addressed all the comments of SonarCloud and similar
 - [ ] I have addressed all the comments of Socket.dev and similar
-- [ ] I have answered responded to all the comments from the reviewers
+- [ ] I have responded responded to all the comments from the reviewers
 - [ ] All the comments are resolved
 
 ###### Security Tasks
@@ -49,7 +49,7 @@ Effect: +20KB to the bundle size
 - [ ] I have verified all public endpoints for potential data leakage
 - [ ] I have tested in browser network tab to confirm no sensitive data exposure
 - [ ] I have verified that all the responses data is explicitly filtered/destructured before sending to client
-- [ ] I have verified that all error responses do not expose any sensitve information
+- [ ] I have verified that all error responses do not expose any sensitive information
 - [ ] I have reviewed the installed/modified packages profile in Socket.dev
 
 <br>
@@ -62,17 +62,17 @@ Effect: +20KB to the bundle size
 
 
 ###### Reviews Tasks
-- [ ] I have confirmed that all AI Reviwers comments are addressed
+- [ ] I have confirmed that all AI Reviewers comments are addressed
 
 
 ###### Security Tasks
 - [ ] I have verified that all API responses contain only necessary fields
 - [ ] I have verified all public endpoints for potential data leakage
 - [ ] I have verified that all the responses data is explicitly filtered/destructured before sending to client
-- [ ] I have verified that all error responses do not expose any sensitve information
+- [ ] I have verified that all error responses do not expose any sensitive information
 - [ ] I have approved the authentication/authorization implementation
 - [ ] I have validated security implications of any new endpoints
 - [ ] I have confirmed proper data filtering throughout request lifecycle (each item only request and get what it needs, no oversharing)
-- [ ] I have conrimed that the Least Privilege Principle is applied on every step ((each item only request and get what it needs, no oversharing)
+- [ ] I have confrimed that the Least Privilege Principle is applied on every step ((each item only request and get what it needs, no oversharing)
 - [ ] I have done a complete security review
 - [ ] I have reviewed the installed/modified packages profile in Socket.dev
