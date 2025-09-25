@@ -73,6 +73,6 @@ Effect: +20KB to the bundle size
 - [ ] I have approved the authentication/authorization implementation
 - [ ] I have validated security implications of any new endpoints
 - [ ] I have confirmed proper data filtering throughout request lifecycle (each item only request and get what it needs, no oversharing)
-- [ ] I have confrimed that the Least Privilege Principle is applied on every step ((each item only request and get what it needs, no oversharing)
+- [ ] I have confirmed that the Least Privilege Principle is applied on every step ((each item only request and get what it needs, no oversharing)
 - [ ] I have done a complete security review
 - [ ] I have reviewed the installed/modified packages profile in Socket.dev
