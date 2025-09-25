@@ -14,7 +14,7 @@ The shipping service provider is charging extra on order fulfillment based on ac
 
 <br>
 
-##### Packages Changes (If 
+##### Packages Changes (If Applicable)
 
 Name: Installed `react-csv-reader` to read CSV files in the frontend
 Effect: +20KB to the bundle size
