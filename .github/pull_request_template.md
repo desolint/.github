@@ -50,6 +50,7 @@ Effect: +20KB to the bundle size
 - [ ] I have tested in browser network tab to confirm no sensitive data exposure
 - [ ] I have verified that all the responses data is explicitly filtered/destructured before sending to client
 - [ ] I have verified that all error responses do not expose any sensitive information
+- [ ] I have confirmed that the Least Privilege Principle is applied on every step (each item only request and get what it needs, no oversharing)
 - [ ] I have reviewed the installed/modified packages profile in Socket.dev
 
 <br>
@@ -72,7 +73,7 @@ Effect: +20KB to the bundle size
 - [ ] I have verified that all error responses do not expose any sensitive information
 - [ ] I have approved the authentication/authorization implementation
 - [ ] I have validated security implications of any new endpoints
-- [ ] I have confirmed proper data filtering throughout request lifecycle (each item only request and get what it needs, no oversharing)
-- [ ] I have confirmed that the Least Privilege Principle is applied on every step ((each item only request and get what it needs, no oversharing)
+- [ ] I have confirmed proper data filtering throughout request lifecycle
+- [ ] I have confirmed that the Least Privilege Principle is applied on every step (each item only request and get what it needs, no oversharing)
 - [ ] I have done a complete security review
 - [ ] I have reviewed the installed/modified packages profile in Socket.dev
