@@ -36,6 +36,7 @@ Effect: +20KB to the bundle size
 ###### Testing Tasks
 - [ ] I have tested the changes locally
 - [ ] I have tested the changes for responsiveness (if applicable)
+- [ ] I have deployed the preview link and confirmed no errors existance
 
 ###### Reviews Tasks
 - [ ] I have responded responded to all the comments from all the AI Reviewers
