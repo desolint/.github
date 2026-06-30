@@ -29,6 +29,7 @@ Effect: +20KB to the bundle size
 - [ ] I have included the Jira ticket link in the PR description
 - [ ] I have included a proper description of the changes made in the PR
 - [ ] I have included the commit descriptions and links in the PR description
+- [ ] I have included a screenshot for the changes done (in case of frontend repos)
 
 ###### Packages Changes
 - [ ] I have included the packages changes in the PR description (if applicable)
